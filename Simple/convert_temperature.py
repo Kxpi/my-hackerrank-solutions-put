@@ -8,7 +8,7 @@ help_shit=0.0
 result=0.0
 final_values=[]
 while i!=n:
-    tab.append(input().split(" "))
+    tab.append(input().split())
     i+=1
 for i in range(len(tab)):
 
