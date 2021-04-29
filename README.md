@@ -1,4 +1,4 @@
-# my-hackerrank-solutions-put
+# my-hackerrank-solutions-put - not finished
 
 #### My takes on almost all (95 from 106?) python exercises that I managed to do from programming lectures at my uni. 
 #### Some of these solutions may not be too brilliant or "pythonic", especially the ones from simple section (but still, they worked).
